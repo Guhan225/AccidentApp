@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+ultralytics
+opencv-python-headless
+numpy<2
+python-dotenv
+requests
+av
+pillow
+pyarrow
